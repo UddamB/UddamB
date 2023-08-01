@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Uddam</h1>
 <h3 align="center">A passionate developer at The Schulich School of Business</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -30,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uddamb&show_icons=true&locale=en" alt="uddamb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uddamb&" alt="uddamb" /></p>
