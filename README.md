@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Uddamsingh14@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/uddam-bhathal/](https://www.linkedin.com/in/uddam-bhathal/)
+- 📄 Know about my experiences [https://uddambhathal.netlify.app/](https://uddambhathal.netlify.app/)
 
 - ⚡ Fun fact **I enjoy mountain biking!**
 
