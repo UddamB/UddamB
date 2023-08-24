@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **Uddamsingh14@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/uddam-bhathal/](https://www.linkedin.com/in/uddam-bhathal/)
-
 - ⚡ Fun fact **I enjoy mountain biking!**
 
 <h3 align="left">Connect with me:</h3>
