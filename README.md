@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ecombuy](https://github.com/UddamB/ecombuy-app)
 
-- 🌱 I’m currently learning **Django, Node.js, ReactJS**
+- 🌱 I’m currently learning **Django, Node.js, React.js**
 
 - 💬 Ask me about **AI, SaaS, Cloud Deployment**
 
