@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django, Node.js, React.js**
 
-- 👨‍💻 All of my projects are available at [https://uddambhathal.netlify.app/](https://uddambhathal.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://uddambhathal.ca/](https://uddambhathal.ca/)
 
 - 💬 Ask me about **AI, SaaS, Cloud Deployment**
 
