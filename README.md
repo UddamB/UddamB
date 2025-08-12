@@ -27,3 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uddamb&show_icons=true&locale=en" alt="uddamb" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uddamb&show_icons=true&locale=en" alt="uddamb" /></p>
+
