@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uddam</h1>
-<h3 align="center">A passionate developer at The Schulich School of Business</h3>
+<h3 align="center">A passionate builder at the Schulich School of Business</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [ecombuy](https://github.com/UddamB/ecombuy-app)
